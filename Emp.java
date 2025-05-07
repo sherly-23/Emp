@@ -3,6 +3,7 @@ public class Emp
     String name;
     int id;
     double salary;
+    
     public Emp(String name,int id,double salary)
     {
         this.name=name;
